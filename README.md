@@ -1,13 +1,13 @@
 # Election_Analysis
 
 
-##Overview of Election Audit
+## Overview of Election Audit
 
 The purpose of our election audit analysis was to help the election commission with some summary data in addition to the more detailed information they already had. Voter turnout, the most active county, and county vote percentages were also needed by the commission in order to complete the audit. We provided such data in the form of a txt file that is output from running our code in order to increase usability.
 
 ![plot](./analysis/Election_result.png) 
 
-##Election Audit Results
+## Election Audit Results
 
 The election audit concluded that the highest voter turnout came from Denver county, and that Diane Degette had the most votes at 73.8% of the total vote. The data was as follows: 
 
@@ -29,7 +29,7 @@ The election audit concluded that the highest voter turnout came from Denver cou
   Winning Percentage: 73.8%
 
 
-##Election-Audit Summary
+## Election-Audit Summary
 
 The code used for this has been thoroughly commented in order to allow for it to be used for future audits with minimal work/technical knowledge. Some examples of which are the following:
 
